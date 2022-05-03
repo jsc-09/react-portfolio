@@ -70,6 +70,14 @@ sup {
 img {
   border-style: none; }
 
+.nav {
+  background-color: rgb(254, 230, 234);
+  margin-top: 0px ;
+  margin-bottom: 10px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}  
+
 button,
 input,
 optgroup,

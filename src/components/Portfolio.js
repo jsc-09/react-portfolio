@@ -1,5 +1,7 @@
 import React from 'react'
 import portfolios from '../components/portfolio.json'
+import '../styles/foundation.css'
+
 
 export default function Portfolio() {
 

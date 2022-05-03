@@ -1,17 +1,19 @@
 import React from 'react'
-import { Menu, MenuItem , Alignments } from "react-foundation"
+import { Menu, MenuItem , Alignments  } from "react-foundation"
+import '../styles/foundation.css'
+
 
 export default function Navbar(props) {
 
     const { pages = [], currentPage, setCurrentPage } = props
 
     return (
-        <nav>
-            <h3>JOANNA CHRISTIAN</h3>
-
+        <nav className="nav">
+            <h3>Joanna Christian</h3>
             <Menu className="menu" alignment={Alignments.CENTER} isExpanded>
+                
                 {pages.map((page) => (
-                    <MenuItem 
+                    <MenuItem isSimple
                         key={page.name}
                     >
                         <span
