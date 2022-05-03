@@ -16,7 +16,7 @@
             "description": "An app to help you find assistance.",
             "github": "https://task-train.herokuapp.com/",
             "website": "https://task-train.herokuapp.com/",
-            "image": "./images/portfolio/tasktrain.png"
+            "image": "%PUBLIC_URL%/images/portfolio/tasktrain.png"
         },
         {
             "name": "Restroom Hunter",
@@ -28,7 +28,7 @@
             "description": "An app to help you find the nearest public restrooms.",
             "github": "https://therestroomhunters.github.io/public-restroom-search/",
             "website": "https://github.com/therestroomhunters/public-restroom-search",
-            "image": "./images/portfolio/restroomhunters.png"
+            "image": "%PUBLIC_URL%/images/portfolio/restroomhunters.png"
         },
         {
             "name": "Team Profiler",
@@ -43,7 +43,7 @@
             "description": "The team profile generator helps you build your team profile from the ground up! Use the generator to create employee profiles for Manager, Engineer, and Intern positions. It will provide with you options for emails, schools, github profile, and office number—customized for each position.",
             "github": "https://github.com/jsc-09/team-profile-generator",
             "website": "https://github.com/jsc-09/team-profile-generator",
-            "image": "./images/portfolio/teamprofiler.png"
+            "image": "%PUBLIC_URL%/images/portfolio/teamprofiler.png"
         },
         {
             "name": "Note Taker",
