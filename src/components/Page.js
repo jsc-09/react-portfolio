@@ -2,6 +2,8 @@ import React from 'react'
 import Portfolio from './Portfolio'
 import About from './About'
 import Contact from './Contact'
+import '../styles/foundation.css'
+
 
 export default function Page(props) {
 
