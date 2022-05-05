@@ -7,7 +7,7 @@ export default function About() {
             
             <div className="grid-x grid-padding-x">
                 
-                <div className="cell medium-4 large-4"><img src='./images/joanna-avatar.png' /></div>
+                <div className="cell medium-4 large-4"><img src='%PUBLIC_URL%/images/joanna-avatar.png' /></div>
 
                 <div className="cell medium-8 large-8">
                 <h4>About Joanna</h4>
