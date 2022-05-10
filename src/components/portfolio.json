@@ -16,7 +16,7 @@
             "description": "An app to help you find assistance.",
             "github": "https://task-train.herokuapp.com/",
             "website": "https://task-train.herokuapp.com/",
-            "image": "%PUBLIC_URL%/images/portfolio/tasktrain.png"
+            "image": "public/images/portfolio/tasktrain.png"
         },
         {
             "name": "Restroom Hunter",
@@ -28,7 +28,7 @@
             "description": "An app to help you find the nearest public restrooms.",
             "github": "https://therestroomhunters.github.io/public-restroom-search/",
             "website": "https://github.com/therestroomhunters/public-restroom-search",
-            "image": ".public/images/portfolio/restroomhunters.png"
+            "image": "/images/portfolio/restroomhunters.png"
         },
         {
             "name": "Team Profiler",
