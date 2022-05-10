@@ -28,7 +28,7 @@
             "description": "An app to help you find the nearest public restrooms.",
             "github": "https://therestroomhunters.github.io/public-restroom-search/",
             "website": "https://github.com/therestroomhunters/public-restroom-search",
-            "image": "%PUBLIC_URL%/images/portfolio/restroomhunters.png"
+            "image": ".public/images/portfolio/restroomhunters.png"
         },
         {
             "name": "Team Profiler",
@@ -43,7 +43,7 @@
             "description": "The team profile generator helps you build your team profile from the ground up! Use the generator to create employee profiles for Manager, Engineer, and Intern positions. It will provide with you options for emails, schools, github profile, and office number—customized for each position.",
             "github": "https://github.com/jsc-09/team-profile-generator",
             "website": "https://github.com/jsc-09/team-profile-generator",
-            "image": "%PUBLIC_URL%/images/portfolio/teamprofiler.png"
+            "image": ".public/images/portfolio/teamprofiler.png"
         },
         {
             "name": "Note Taker",
@@ -58,7 +58,7 @@
             "description": "Use this application to help yourself create a to-do list, take notes, or any other list-related activities.",
             "github": "https://github.com/jsc-09/To-Do-List-Note-Taker",
             "website": "https://todo-list-note-taker-app.herokuapp.com/",
-            "image": "%PUBLIC_URL%/images/portfolio/notetaker.png"
+            "image": ".public/images/portfolio/notetaker.png"
         },
         {
             "name": "ActUp LA",
@@ -69,7 +69,7 @@
             "description": "A site dedicated to the ACTUP LA project.",
             "github": "",
             "website": "https://www.actupla.org/",
-            "image": "%PUBLIC_URL%/images/portfolio/actupla.png"
+            "image": ".public/images/portfolio/actupla.png"
         },
         {
             "name": "Author: Julie Scolnik",
@@ -81,7 +81,7 @@
             "description": "Created a new author page for Julie Scolnik as well as strategize social media marketing ideas.",
             "github": "",
             "website": "https://juliescolnik.com/",
-            "image": "%PUBLIC_URL%/images/portfolio/juliescolnik.png"
+            "image": ".public/images/portfolio/juliescolnik.png"
         },
         {
             "name": "ArtPower at UC San Diego",
@@ -94,7 +94,7 @@
             "description": "Manage website content for ArtPower using WordPress. Overall digital marketing, public relations, social media strategies.",
             "github": "",
             "website": "https://artpower.ucsd.edu/",
-            "image": "%PUBLIC_URL%/images/portfolio/artpower.png"
+            "image": ".public/images/portfolio/artpower.png"
         }
     ]
 }
